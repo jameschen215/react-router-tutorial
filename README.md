@@ -2,7 +2,7 @@
 
 ### Using JavaScript data fetch file in TypeScript
 
-Add a .d.ds file in the same folder.
+Add a `whatever.d.ts` file in the same folder.
 
 ```TypeScript
 export type Contact = {
